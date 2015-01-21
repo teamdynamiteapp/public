@@ -2,8 +2,8 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 0.1
-apiversion: 2
+version: 0.2
+apiversion: 3
 description: My module
 author: Your Name
 license: Specify your license
@@ -15,4 +15,4 @@ name: tiaddsafarireadinglist
 moduleid: ti.addsafarireadinglist
 guid: c4522d3b-8c0f-4778-a9a3-e84a4c515c88
 platform: iphone
-minsdk: 1.8.0.1
+minsdk: 3.5.0.GA
