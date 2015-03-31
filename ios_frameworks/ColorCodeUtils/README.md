@@ -4,11 +4,11 @@ this framework provide to you utility methods for color code.
 
 ## install
 
-#### write to the pod file First
+**write to the pod file First**
 
     pod 'ColorCodeUtils'
 
-#### run the command pod
+**run the command pod**
     
     > pod install
 
@@ -23,4 +23,7 @@ this framework provide to you utility methods for color code.
     UIView *view1 = [[UIView alloc] initWithFrame:CGRectMake(100, 50, 50, 50)];
     [view1 setBackgroundColor:color1];
     [self.view addSubview:view1];
+
+## result
+![result](./ss.png)
 
